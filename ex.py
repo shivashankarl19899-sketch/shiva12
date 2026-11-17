@@ -1,2 +1,2 @@
-a="anjan"
+a="anjan
 print(a)
